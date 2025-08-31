@@ -2,7 +2,7 @@
 
 This repository contains a Java-based console application that calculates student grades based on input marks. The project demonstrates core Java concepts through a simple academic utility designed for clarity, accuracy, and ease of use.
 
-⚙️ **Features:-**
+⚙️ **Code Features:-**
 
 🔹 **Student Data Input:**  Enter the student's name and marks for multiple subjects.
 
